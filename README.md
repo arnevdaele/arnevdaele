@@ -8,8 +8,8 @@
 <p>A 23 y/o full-stack developer from Belgium, living in The Netherlands. Proud founder of Propellor Digital since 2018, a company providing IoT solutions and software development.</p>
 <p>I'm experienced in:</p>
 <ul>
-  <li>Laravel (Preffered stack: VILT)</li>
-  <li>Javascript (and jQuery, ofcourse)</li>
+  <li>Laravel (Preffered stack: TALL)</li>
+  <li>Javascript, jQuery and Typescript</li>
   <li>Vue and React</li>
   <li>The basics; HTML, CSS and PHP</li>
   <li>Python</li>
