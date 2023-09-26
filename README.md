@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/arnevdaele" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <img src="https://komarev.com/ghpvc/?username=arnevdaele&color=brightgreen" alt="watching_count" />
 
-<p>A 24 y/o full-stack developer from Belgium, living in The Netherlands. Proud founder of Propellor Digital since 2018, a company providing IoT solutions and software development.</p>
+<p>A 24 y/o full-stack developer from Belgium. Proud founder of Propellor Digital since 2018, a company providing IoT solutions and software development.</p>
 <p>I'm experienced in:</p>
 <ul>
   <li>Laravel (Preffered stack: TALL)</li>
